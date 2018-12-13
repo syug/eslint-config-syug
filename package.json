@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-syug",
+  "name": "@syug/eslint-config-syug",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+ssh://git@github.com/syug/eslint-config-syug.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "syug (syug@izm.org.uk)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/syug/eslint-config-syug/issues"
